@@ -26,7 +26,7 @@ return [
     'Google' => 'vendor/safan-lab/google/Google'
     ...
 ];
-
+```
 Captcha
 ------------
 
