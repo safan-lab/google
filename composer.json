@@ -1,0 +1,17 @@
+{
+    "name": "safan-lab/google",
+    "type": "library",
+    "description": "Safan module for Google Services",
+    "keywords": ["google", "captcha", "authentication", "map", "google plus"],
+    "homepage": "http://www.safanlab.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Safan Lab",
+            "homepage": "http://www.safanlab.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
